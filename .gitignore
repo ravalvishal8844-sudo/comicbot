@@ -1,0 +1,17 @@
+.env
+*.session
+*.session-*
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.qodo/
+.claude/
+.cookie_cache/
+playwright_profile/
+debug_snapshots/
+data/
+projector_data/
+public_sticker_pack.json
+*.png
+!references/*.png

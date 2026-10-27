@@ -1,0 +1,13 @@
+pyrotgfork>=2.2.17
+playwright>=1.40
+httpx[http2]>=0.27.0
+python-dotenv>=1.0.0
+PyYAML>=6.0
+fastapi
+uvicorn
+python-multipart
+Pillow
+chromadb
+sentence-transformers
+# только для phoenix_view.py
+pandas
